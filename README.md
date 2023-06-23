@@ -2,4 +2,4 @@
 การใช้งาน
 #lab git
 #lab html
-![วิ่งแกะ](https://www.bitkubnft.com/_next/image?url=https%3A%2F%2Fstatic.bitkubnext.com%2Fnft%2Fnft_stores%2Funsleep-sheep%2Fstore-cover.jpg&w=1920&q=75)
+![วิ่งแกะ](https://play-lh.googleusercontent.com/S17Ddn0Vq5wO36zYYXhpsIKKkdQe9tDduruWcYAvs9dWmIRhNBbxo265NqPWokNapc4)
